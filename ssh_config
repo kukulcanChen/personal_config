@@ -1,0 +1,4 @@
+
+Host gozilla
+	User gitolite
+	IdentityFile ~/.ssh/id_rsa_lucian_gozilla.pub
